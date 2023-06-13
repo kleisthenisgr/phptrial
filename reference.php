@@ -7,6 +7,6 @@
   }
   $a= 7;
   $b= 15;
-  SwapInt(&$a, &$b);
+  SwapInt($a, $b);
   echo "O prwtos arithmos einai: " . $a . "\nO deyteros arithmos einai: " . $b;
 ?>
